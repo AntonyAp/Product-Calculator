@@ -1,0 +1,14 @@
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\Shop.deps.json
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\Shop.runtimeconfig.json
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\Shop.runtimeconfig.dev.json
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\Shop.dll
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\Shop.pdb
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\ShopModel.dll
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\bin\Debug\netcoreapp2.0\ShopModel.pdb
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.csprojAssemblyReference.cache
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.csproj.CoreCompileInputs.cache
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.AssemblyInfoInputs.cache
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.AssemblyInfo.cs
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.csproj.CopyComplete
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.dll
+E:\Sunmait\tasks13.02.2019\ToRefactoring\Shop\obj\Debug\netcoreapp2.0\Shop.pdb
