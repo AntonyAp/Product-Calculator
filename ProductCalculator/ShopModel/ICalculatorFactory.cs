@@ -2,6 +2,6 @@
 {
     public  interface ICalculatorFactory
     {
-        IValueCalculator GetCalculatorType();
+        IValueCalculator GetCalculator();
     }
 }

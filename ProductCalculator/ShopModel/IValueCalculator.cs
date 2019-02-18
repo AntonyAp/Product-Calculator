@@ -4,6 +4,6 @@ namespace ShopModel
 {
     public interface IValueCalculator
     {
-         decimal ValueProducts(IEnumerable<Product> products);
+         decimal ValueProducts(List<Product> products);
     }
 }

@@ -2,7 +2,7 @@
 {
     public  class SimpleCalculatorFactory : ICalculatorFactory
     {
-        public IValueCalculator GetCalculatorType()
+        public IValueCalculator GetCalculator()
         {
             return new SimpleCalculator();
         }

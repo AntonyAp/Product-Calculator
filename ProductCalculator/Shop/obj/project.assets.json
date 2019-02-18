@@ -735,11 +735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sunmait\\tasks13.02.2019\\ToRefactoring\\Shop\\Shop.csproj",
+      "projectUniqueName": "E:\\Sunmait\\tasks13.02.2019\\ProductCalculator\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "E:\\Sunmait\\tasks13.02.2019\\ToRefactoring\\Shop\\Shop.csproj",
+      "projectPath": "E:\\Sunmait\\tasks13.02.2019\\ProductCalculator\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "E:\\Sunmait\\tasks13.02.2019\\ToRefactoring\\Shop\\obj\\",
+      "outputPath": "E:\\Sunmait\\tasks13.02.2019\\ProductCalculator\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -758,8 +758,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Sunmait\\tasks13.02.2019\\ToRefactoring\\ShopModel\\ShopModel.csproj": {
-              "projectPath": "E:\\Sunmait\\tasks13.02.2019\\ToRefactoring\\ShopModel\\ShopModel.csproj"
+            "E:\\Sunmait\\tasks13.02.2019\\ProductCalculator\\ShopModel\\ShopModel.csproj": {
+              "projectPath": "E:\\Sunmait\\tasks13.02.2019\\ProductCalculator\\ShopModel\\ShopModel.csproj"
             }
           }
         }

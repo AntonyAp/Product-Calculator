@@ -4,7 +4,7 @@ namespace ShopModel
 {
     public class SimpleCalculator : IValueCalculator
     {
-        public decimal ValueProducts(IEnumerable<Product> products)
+        public decimal ValueProducts(List<Product> products)
         {
             decimal sumOfProduct = 0;
             foreach (var product in products)

@@ -7,7 +7,7 @@
         {
             _discount = discount;
         }
-        public IValueCalculator GetCalculatorType()
+        public IValueCalculator GetCalculator()
         {
             return new CalculatorWithDiscount(_discount);
         }

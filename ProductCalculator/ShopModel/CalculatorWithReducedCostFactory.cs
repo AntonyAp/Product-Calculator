@@ -7,7 +7,7 @@
         {
             _reduceSize = reduceSize;
         }
-        public IValueCalculator GetCalculatorType()
+        public IValueCalculator GetCalculator()
         {
             return new CalculatorReducingCost(_reduceSize);
         }

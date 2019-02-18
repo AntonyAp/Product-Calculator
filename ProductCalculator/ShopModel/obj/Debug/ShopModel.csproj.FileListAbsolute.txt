@@ -4,3 +4,9 @@ E:\Sunmait\tasks13.02.2019\ToRefactoring\ShopModel\obj\Debug\ShopModel.csprojAss
 E:\Sunmait\tasks13.02.2019\ToRefactoring\ShopModel\obj\Debug\ShopModel.csproj.CoreCompileInputs.cache
 E:\Sunmait\tasks13.02.2019\ToRefactoring\ShopModel\obj\Debug\ShopModel.dll
 E:\Sunmait\tasks13.02.2019\ToRefactoring\ShopModel\obj\Debug\ShopModel.pdb
+E:\Sunmait\tasks13.02.2019\ProductCalculator\ShopModel\bin\Debug\ShopModel.dll
+E:\Sunmait\tasks13.02.2019\ProductCalculator\ShopModel\bin\Debug\ShopModel.pdb
+E:\Sunmait\tasks13.02.2019\ProductCalculator\ShopModel\obj\Debug\ShopModel.csprojAssemblyReference.cache
+E:\Sunmait\tasks13.02.2019\ProductCalculator\ShopModel\obj\Debug\ShopModel.csproj.CoreCompileInputs.cache
+E:\Sunmait\tasks13.02.2019\ProductCalculator\ShopModel\obj\Debug\ShopModel.dll
+E:\Sunmait\tasks13.02.2019\ProductCalculator\ShopModel\obj\Debug\ShopModel.pdb
